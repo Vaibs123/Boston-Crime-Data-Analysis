@@ -1,0 +1,4 @@
+Incident_Num,Incident Number
+Incident_Date,Date of offense
+District,Boston Police District where offense occurred. 
+Ballistics_Evidence,Ballistics evidence recovered at the offense location

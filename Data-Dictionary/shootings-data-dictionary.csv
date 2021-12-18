@@ -1,0 +1,8 @@
+Incident_Num,Incident Number
+Shooting_Date,Date of offense
+District,Boston Police District where offense occurred. 
+Shooting_Type_V2,"Values are ""Fatal"" or ""Non-Fatal"" "
+Victim_Gender,Gender of the victim
+Victim_Race,Race of the victim
+Victim_Ethnicity_NIBRS,Ethnicity of the victim 
+Multi_Victim,Used to help denote multiple victims shot during the same incident

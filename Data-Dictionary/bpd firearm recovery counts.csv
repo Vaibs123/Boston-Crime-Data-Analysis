@@ -1,0 +1,19 @@
+﻿Field,Definition
+_id,N/A
+Collection date,"Date firearms submitted to the Firearms
+Analysis Unit (FAU) of the BPD by districts
+and other units."
+Crime guns recovered,"Number of firearms involved with a crime
+recovered by the BPD and submitted to
+FAU."
+Guns surrendered/ safeguarded,"Number of guns surrendered to, or
+safeguarded by the BPD and received by the
+Firearms Analysis Unit. Example of a
+surrender -- an individual’s license to carry
+is suspended and is legally required to
+surrender the firearm to BPD. Example of a
+safeguarding – an individual turns over
+firearms that belonged to a relative
+following their death."
+Buyback Guns recovered,"Number of firearms turned in to the BPD
+during a Buyback program."
